@@ -1,0 +1,10 @@
+b=bytes([10,20,30,40,255])
+ba=bytearray([10,20,30,40,255])
+fz=frozenset({10,10,10,10})
+numbers=range(20)
+n=None 
+print(type(b))
+print(type(ba))
+print(type(fz))
+print(type(numbers))
+print(type(n))
