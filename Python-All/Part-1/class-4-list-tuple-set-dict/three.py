@@ -1,0 +1,10 @@
+user={
+    'uid':101,
+    'uname':'Rahul',
+    'email':'rg@gmail.com',
+    'email':'rg@tcs.com',
+    'email':'rg@ibm.com',
+    'email':'rg@adobe.com',
+    'email':'rg@grey.com',
+}
+print(user)

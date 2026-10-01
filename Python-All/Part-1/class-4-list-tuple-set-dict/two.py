@@ -1,0 +1,10 @@
+d1={}
+d2=dict()
+emp={
+    'eid':101,
+    'ename':'Rahul',
+    'esal':45000.45
+}
+print(type(d1))
+print(type(d2))
+print(type(emp))
