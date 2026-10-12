@@ -1,0 +1,22 @@
+[
+	{"eid": 1, "ename": "Narendra Modi", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 2, "ename": "Droupadi Murmu", "loc": "New Delhi", "gender": "Female"},
+	{"eid": 3, "ename": "Amit Shah", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 4, "ename": "Rahul Gandhi", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 5, "ename": "Sonia Gandhi", "loc": "New Delhi", "gender": "Female"},
+	{"eid": 6, "ename": "Nirmala Sitharaman", "loc": "New Delhi", "gender": "Female"},
+	{"eid": 7, "ename": "Rajnath Singh", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 8, "ename": "Mallikarjun Kharge", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 9, "ename": "Mamata Banerjee", "loc": "Kolkata", "gender": "Female"},
+	{"eid": 10, "ename": "M. K. Stalin", "loc": "Chennai", "gender": "Male"},
+	{"eid": 11, "ename": "Nitish Kumar", "loc": "Patna", "gender": "Male"},
+	{"eid": 12, "ename": "Yogi Adityanath", "loc": "Lucknow", "gender": "Male"},
+	{"eid": 13, "ename": "Akhilesh Yadav", "loc": "Lucknow", "gender": "Male"},
+	{"eid": 14, "ename": "Arvind Kejriwal", "loc": "New Delhi", "gender": "Male"},
+	{"eid": 15, "ename": "Pinarayi Vijayan", "loc": "Thiruvananthapuram", "gender": "Male"},
+	{"eid": 16, "ename": "Himanta Biswa Sarma", "loc": "Guwahati", "gender": "Male"},
+	{"eid": 17, "ename": "N. Chandrababu Naidu", "loc": "Amaravati", "gender": "Male"},
+	{"eid": 18, "ename": "Revanth Reddy", "loc": "Hyderabad", "gender": "Male"},
+	{"eid": 19, "ename": "Devendra Fadnavis", "loc": "Mumbai", "gender": "Male"},
+	{"eid": 20, "ename": "Priyanka Gandhi Vadra", "loc": "New Delhi", "gender": "Female"}
+]

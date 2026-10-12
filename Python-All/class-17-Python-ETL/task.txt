@@ -1,0 +1,8 @@
+Invoke Rest API and 
+write Product data(pid,name,category,price,rating)
+into new JSON file and new CSV file.
+Rest API info:
+----------------
+Usage: fetch all products
+Rest API URL: http://dummyjson.com/products
+Method Type:GET

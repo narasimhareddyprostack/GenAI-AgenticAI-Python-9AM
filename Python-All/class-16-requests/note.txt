@@ -1,0 +1,15 @@
+Rest API - 1
+-------------------
+Usage: fetch all users
+Rest API URL: https://jsonplaceholder.typicode.com/users
+Method Type: GET
+Required Fields: None 
+Access Type: Public
+
+Rest API - 2
+-------------------
+Usage: Login into appl
+Rest API URL: https://flipkart.com/users/login
+Method Type: POST
+Required Fields: email,password 
+Access Type: Public
